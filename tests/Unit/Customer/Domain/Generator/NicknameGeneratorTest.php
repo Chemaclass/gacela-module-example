@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace GacelaModuleExampleTest\Unit\Customer\Generator;
+namespace GacelaModuleExampleTest\Unit\Customer\Domain\Generator;
 
-use GacelaModuleExample\Customer\Generator\NicknameGenerator;
+use GacelaModuleExample\Customer\Domain\Generator\NicknameGenerator;
 use GacelaModuleExample\Shared\CustomerName;
 use PHPUnit\Framework\TestCase;
 

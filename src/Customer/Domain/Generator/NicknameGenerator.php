@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GacelaModuleExample\Customer\Generator;
+namespace GacelaModuleExample\Customer\Domain\Generator;
 
 use GacelaModuleExample\Shared\CustomerName;
 
