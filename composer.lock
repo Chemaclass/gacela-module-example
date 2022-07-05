@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "52176fe076b1cfb9096881f0fc42363a",
+    "content-hash": "9ff1b96357869ebd1ce84d8811f85349",
     "packages": [
         {
             "name": "gacela-project/gacela",
-            "version": "dev-master",
+            "version": "dev-feature/resolve-different-project-namespaces",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gacela-project/gacela.git",
-                "reference": "07bd70870d74353bc4d5e06d218e9d7a69a8728b"
+                "reference": "c7873558bbca74cb98f3470592f0bc2bd5626eeb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gacela-project/gacela/zipball/07bd70870d74353bc4d5e06d218e9d7a69a8728b",
-                "reference": "07bd70870d74353bc4d5e06d218e9d7a69a8728b",
+                "url": "https://api.github.com/repos/gacela-project/gacela/zipball/c7873558bbca74cb98f3470592f0bc2bd5626eeb",
+                "reference": "c7873558bbca74cb98f3470592f0bc2bd5626eeb",
                 "shasum": ""
             },
             "require": {
@@ -39,7 +39,6 @@
                 "gacela-project/gacela-yaml-config-reader": "Allows to read yml/yaml config files",
                 "symfony/console": "Allows to use vendor/bin/gacela script"
             },
-            "default-branch": true,
             "bin": [
                 "gacela"
             ],
@@ -72,7 +71,7 @@
             ],
             "support": {
                 "issues": "https://github.com/gacela-project/gacela/issues",
-                "source": "https://github.com/gacela-project/gacela/tree/master"
+                "source": "https://github.com/gacela-project/gacela/tree/feature/resolve-different-project-namespaces"
             },
             "funding": [
                 {
@@ -80,7 +79,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-06-26T09:23:11+00:00"
+            "time": "2022-07-02T15:01:27+00:00"
         }
     ],
     "packages-dev": [

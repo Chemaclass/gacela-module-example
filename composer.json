@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "gacela-project/gacela": "dev-master"
+        "gacela-project/gacela": "dev-feature/resolve-different-project-namespaces"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
