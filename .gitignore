@@ -1,0 +1,7 @@
+.idea/
+data/
+coverage/
+vendor/
+
+*.cache
+config/local.php
