@@ -5,3 +5,4 @@ vendor/
 
 *.cache
 config/local.php
+composer.lock
