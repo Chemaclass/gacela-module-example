@@ -13,13 +13,13 @@
         "gacela-project/gacela": "@stable"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^3.8",
+        "friendsofphp/php-cs-fixer": "^3.35",
         "gacela-project/phpstan-extension": "^0.3",
-        "phpunit/phpunit": "^9.5",
-        "phpstan/phpstan": "^1.7",
+        "phpunit/phpunit": "^9.6",
+        "phpstan/phpstan": "^1.10",
         "roave/security-advisories": "dev-latest",
         "symfony/var-dumper": "^5.4",
-        "vimeo/psalm": "^4.23"
+        "vimeo/psalm": "^4.30"
     },
     "autoload": {
         "psr-4": {
@@ -42,7 +42,7 @@
             "@csfix",
             "@test-all"
         ],
-        "test-all": [
+        "test": [
             "@quality",
             "@phpunit"
         ],
